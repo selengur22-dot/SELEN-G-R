@@ -1,0 +1,6 @@
+{
+  "name": "GUASÉ ISTANBUL - El Örgüsü Çanta Koleksiyonu",
+  "description": "Guasé Istanbul el yapımı örme çanta koleksiyonu. Yalnızca online satış, %100 el örgüsü tasarımlar, özel renk seçenekleri ve güncel fiyat kataloğu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
